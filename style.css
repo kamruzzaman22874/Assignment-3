@@ -11,3 +11,25 @@
 .img-carousel-info{
     height: 581px;
 }
+
+.coursebtn {
+    position: relative; 
+    top:2rem;
+     left: 40%;
+  }
+
+  /* .img-carousel-info {
+    opacity: 0.5;
+  } */
+
+@media only screen and (max-width: 600px) {
+    .coursebtn {
+      left:20%;
+    }
+  }
+
+  @media only screen and (max-width: 600px) {
+    .caroselStart {
+      width: 70%;
+    }
+  }
