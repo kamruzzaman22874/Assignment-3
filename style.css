@@ -1,0 +1,13 @@
+
+/* This section for bottom logo  */
+.img{
+    height: 40px;
+    position: relative;
+    left: 0.2rem;
+}
+.img img{
+    height: 30px;
+}
+.img-carousel-info{
+    height: 581px;
+}
