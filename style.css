@@ -36,4 +36,13 @@
     .caroselStart {
       width: 70%;
     }
+    .upper{
+      top: -282px;
+    }
   }
+  @media only screen and (max-width: 767px) {
+    .upper{
+      top: -282px;
+    }
+  }
+
