@@ -17,6 +17,10 @@
     top:2rem;
      left: 40%;
   }
+  .upper{
+    position: relative;
+    top: -130px;
+  }
 
   /* .img-carousel-info {
     opacity: 0.5;
